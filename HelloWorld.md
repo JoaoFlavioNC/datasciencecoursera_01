@@ -20,6 +20,9 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r cars}
 summary(cars)
 ```
+```{r}
+print("Hello world")
+```
 
 ## Including Plots
 
